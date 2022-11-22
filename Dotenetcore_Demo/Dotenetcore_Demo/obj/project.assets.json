@@ -6611,11 +6611,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\R&D\\Demo_Project\\Dotenetcore_Demo\\Dotenetcore_Demo\\Dotenetcore_Demo.csproj",
+      "projectUniqueName": "D:\\R&D\\Jenkins\\TestRepo\\Dotenetcore_Demo\\Dotenetcore_Demo\\Dotenetcore_Demo.csproj",
       "projectName": "Dotenetcore_Demo",
-      "projectPath": "D:\\R&D\\Demo_Project\\Dotenetcore_Demo\\Dotenetcore_Demo\\Dotenetcore_Demo.csproj",
+      "projectPath": "D:\\R&D\\Jenkins\\TestRepo\\Dotenetcore_Demo\\Dotenetcore_Demo\\Dotenetcore_Demo.csproj",
       "packagesPath": "C:\\Users\\amitk\\.nuget\\packages\\",
-      "outputPath": "D:\\R&D\\Demo_Project\\Dotenetcore_Demo\\Dotenetcore_Demo\\obj\\",
+      "outputPath": "D:\\R&D\\Jenkins\\TestRepo\\Dotenetcore_Demo\\Dotenetcore_Demo\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
