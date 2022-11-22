@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>Dotenetcore_Demo</name>
+    </assembly>
+    <members>
+        <member name="M:Dotenetcore_Demo.Controllers.StudentController.GetPage(Dotenetcore_Demo.Model.Student)">
+            <summary>
+            This routine is used to get list of student based on pagination parameters.
+            </summary>
+            <param name="PageNumber"></param>
+            <returns>List of Students</returns>
+            <remarks>This is my test method</remarks>        
+        </member>
+    </members>
+</doc>
