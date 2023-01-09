@@ -1,0 +1,6 @@
+{
+  "title": "pharmeasy",
+  "API": "dotnet",
+  "FrontEnd": "angular",
+  "Database": "sql"
+}
